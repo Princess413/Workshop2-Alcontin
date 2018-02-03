@@ -36,7 +36,7 @@
               <p style="color: orange" class = "foodName" >ST (Straight Tip)</p>
               <p style = "color: orange;">
 
-              Straight Tip The ST connector’s keyed bayonet design is similar to that of a BNC (Bayonet Nut Connector or Bayonet Neill-Concelman) connector. The connector is used widely for MMF and SMF FOC and is extremely easy to use. The ST connector is manufactured in two versions – the ST and the ST-II. Both types are keyed and spring loaded, and use a “push-in and twist” mechanism.</p>
+              --> Straight Tip The ST connector’s keyed bayonet design is similar to that of a BNC (Bayonet Nut Connector or Bayonet Neill-Concelman) connector. The connector is used widely for MMF and SMF FOC and is extremely easy to use. The ST connector is manufactured in two versions – the ST and the ST-II. Both types are keyed and spring loaded, and use a “push-in and twist” mechanism.</p>
             
             </td>
             </tr>
@@ -46,7 +46,7 @@
               <p style="color: orange" class = "foodName" >SC (Straight Connection)</p>
               <p style = "color: orange;">
 
-                Simple, rugged and low cost, SC connectors use a ceramic ferrule to deliver accurate alignment of the SMF. The SC connector comes with a locking tab that enables push on / pull off operation.
+                --> Simple, rugged and low cost, SC connectors use a ceramic ferrule to deliver accurate alignment of the SMF. The SC connector comes with a locking tab that enables push on / pull off operation.
 At the time of writing the most popular choice for such equipment like Fiber Multiplexers, GPON and EPON ONU’s, Fiber Media Converters and more.</p>
                 
             </tr>
@@ -56,7 +56,7 @@ At the time of writing the most popular choice for such equipment like Fiber Mul
               <p style="color: orange" class = "foodName" >MT-RJ Two cables in one RJ-45 clone</p>
               <p style = "color: orange;">
 
-                The single polymer ferrule duplex MT-RJ connector includes alignment. It is available in female / male connectors, or a plug-and-jack format.  reduced footprint and are new generation connectors used mainly in dense applications.</p>
+                --> The single polymer ferrule duplex MT-RJ connector includes alignment. It is available in female / male connectors, or a plug-and-jack format.  reduced footprint and are new generation connectors used mainly in dense applications.</p>
              
             </td>
             </tr>
@@ -66,7 +66,7 @@ At the time of writing the most popular choice for such equipment like Fiber Mul
               <p style="color: orange" class = "foodName" >SMA (Subminiature Type A)</p>
               <p style = "color: orange;"
               >
-                The obsolete SMA connector was the forerunner to the ST connector which we discussed above.. This connector was eventually replaced by the ST, and later by SC connectors. provides data transmission at 100 Mbps in a dual ring token local area network within a 200-kilometer range.</p>
+                --> The obsolete SMA connector was the forerunner to the ST connector which we discussed above.. This connector was eventually replaced by the ST, and later by SC connectors. provides data transmission at 100 Mbps in a dual ring token local area network within a 200-kilometer range.</p>
                 
             </tr>
                     <tr>
@@ -75,7 +75,7 @@ At the time of writing the most popular choice for such equipment like Fiber Mul
               <p style="color: orange" class = "foodName" >LC (Link Control)</p>
               <p style = "color: orange;"
               >
-                LC connector is always present on SFP’s, and if some equipment uses SFP as transmitter, like for example our USB over fiber transmitters, then you can recognize it easily:</p>
+                --> LC connector is always present on SFP’s, and if some equipment uses SFP as transmitter, like for example our USB over fiber transmitters, then you can recognize it easily:</p>
                 
             </tr>
                  <tr>
